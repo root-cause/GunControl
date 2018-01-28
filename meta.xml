@@ -1,0 +1,6 @@
+<meta>
+    <info name="Gun Control" author="rootcause" type="script" />
+
+    <!-- Files -->
+    <script src="GunControl.js" type="client" lang="javascript" />
+</meta>
